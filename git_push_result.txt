@@ -1,0 +1,8 @@
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s                                  Uploading LFS objects: 100% (1/1), 192 MB | 0 B/s                               Uploading LFS objects: 100% (1/1), 192 MB | 0 B/s                               Uploading LFS objects: 100% (1/1), 192 MB | 0 B/s, done
+remote: error: Trace: 6c974efb844e0ac0643b6433b1594aca1e4814777227e46fed3a6d15881e6346        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File knightSasha_pc_exe.7z is 182.94 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/kahineasin/knightSashaReleaseLfs.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/kahineasin/knightSashaReleaseLfs.git'
